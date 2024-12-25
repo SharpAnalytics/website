@@ -1,0 +1,51 @@
+{
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        "---\n",
+        "title: \"Contact\"\n",
+        "---\n",
+        "\n",
+        "```{html}\n",
+        "<section class=\"contact-section\">\n",
+        "  <h4 class=\"section-title\">OUR ADDRESS</h4>\n",
+        "  <h2 class=\"section-subtitle\">WHERE YOU CAN FIND US</h2>\n",
+        "  <div class=\"divider\"></div>\n",
+        "  <div class=\"contact-container\">\n",
+        "    <div class=\"contact-item\">\n",
+        "      <i class=\"icon phone-icon\"></i>\n",
+        "      <h3>Call Us</h3>\n",
+        "      <p><a href=\"tel:08452309100\">0845 230 9100 (UK)</a></p>\n",
+        "      <p><a href=\"tel:02026159389\">020 26159389 (IN)</a></p>\n",
+        "    </div>\n",
+        "    <div class=\"contact-item\">\n",
+        "      <i class=\"icon email-icon\"></i>\n",
+        "      <h3>Email Address</h3>\n",
+        "      <p><a href=\"mailto:connect@pixelimage.co.uk\">connect@pixelimage.co.uk</a></p>\n",
+        "    </div>\n",
+        "    <div class=\"contact-item\">\n",
+        "      <i class=\"icon linkedin-icon\"></i>\n",
+        "      <h3>LinkedIn</h3>\n",
+        "      <p><a href=\"https://www.linkedin.com/company-page\" target=\"_blank\">Company Page</a></p>\n",
+        "    </div>\n",
+        "  </div>\n",
+        "</section>\n",
+        "\n",
+        "```"
+      ],
+      "id": "c9ccf00e"
+    }
+  ],
+  "metadata": {
+    "kernelspec": {
+      "name": "python3",
+      "language": "python",
+      "display_name": "Python 3 (ipykernel)",
+      "path": "C:\\Users\\ANDREA\\AppData\\Roaming\\Python\\share\\jupyter\\kernels\\python3"
+    }
+  },
+  "nbformat": 4,
+  "nbformat_minor": 5
+}

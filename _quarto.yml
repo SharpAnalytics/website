@@ -1,0 +1,35 @@
+project:
+  type: website
+
+website:
+  open-graph:
+    locale: es_ES
+    site-name: Quarto
+  title: "Sharp Analytics"
+  navbar:
+    right:
+      - icon: linkedin
+        url:  https://fr.linkedin.com/in/dnandrea
+    left:
+      - href: index.qmd
+        text: Accueil
+      - project.qmd
+      - contact.qmd
+    
+
+format:
+  html:
+    theme: 
+      light: lux
+    css: styles.css
+    toc: true
+    allow-html: true
+
+editor: visual
+
+lang: fr
+
+backgroundcolor: "#002fa7"
+
+fontcolor: "white"
+

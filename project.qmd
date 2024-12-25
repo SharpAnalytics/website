@@ -1,0 +1,63 @@
+---
+title: "Projets" 
+---
+
+Chez Sharp Analytics, nous nous engageons à fournir des solutions innovantes et adaptées aux besoins spécifiques de nos clients. Voici un aperçu de quelques-uns des projets marquants sur lesquels nous avons travaillé récemment :
+
+### **ReEnergized**
+
+Nous avons réalisé une analyse approfondie des données de fréquentation dans le but de formuler des recommandations pour augmenter la fréquentation du club de remise en forme Re-Energized, en Californie. Nous avons utilisé les données collectées via l'application ClubReady pour identifier les tendances et les comportements des membres, ce qui a permis de proposer des actions ciblées pour améliorer l'engagement des membres.
+
+**Technologies utilisées :** Python, R
+
+<figure class="text-center">
+
+<blockquote class="blockquote">
+
+<p class="mb-0">
+
+SharpAnalytics a vraiment cerné notre problématique et nous a aidé à trouver des solutions concrètes pour lisser la fréquentation de nos installations.
+
+</p>
+
+</blockquote>
+
+<figcaption class="blockquote-footer">
+
+Raphael Krempp <cite title="Source Title">Executive Director at ReEnergized</cite>
+
+</figcaption>
+
+</figure>
+
+### **Bien-être en Entreprise**
+
+Nous avons collaboré avec Akkor, une entreprise de conseil en bien-être au travail pour analyser et améliorer le bien-être des employés. En utilisant un questionnaire détaillé, nous avons étudié des aspects tels que la sédentarité, les habitudes de vie et le stress. Nos recommandations ont permis de concevoir des initiatives pour augmenter la productivité et la satisfaction des employés.
+
+**Technologies utilisées :** R, Analyse de données, Modélisation statistique, Creation de Dashboard, Large Language Models
+
+<figure class="text-center">
+
+<blockquote class="blockquote">
+
+<p class="mb-0">
+
+Notre collaboration avec SharpAnalytics nous a permis d'entrer dans une nouvelle dimension.
+
+</p>
+
+</blockquote>
+
+<figcaption class="blockquote-footer">
+
+Pierre-Antoine Raffaelli <cite title="Source Title">Co-founder of Akkor Consulting</cite>
+
+</figcaption>
+
+</figure>
+
+### **Finance Quantitative**
+
+Nous avons développé une stratégie d'investissement quantitative en utilisant des principes de finance quantitative pour identifier des instruments sous-évalués sur les marchés financiers. Grâce à des analyses de données financières historiques et l'application de modèles mathématiques, nous avons pu repérer des opportunités d'investissement offrant un potentiel de rendement élevé à moyen terme. Nous avons également évalué et ajusté la stratégie à l'aide de méthodes de backtest, garantissant ainsi sa robustesse avant de la déployer en conditions réelles.
+
+**Technologies utilisées :** R, Quantmod, Shiny
